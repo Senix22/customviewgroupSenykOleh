@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BasicView</string>
+    <string name="nameOfFilm">Boss BABY</string>
+    <string name="animation">Animation</string>
+    <string name="price">5.00$</string>
+    <string name="text_for">TEXT FOR</string>
+</resources>
